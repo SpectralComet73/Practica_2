@@ -10,3 +10,6 @@ Enlace al repositorio de la practica 3
 
 Enlace al archivo de la practica 5
   - [Ir al documento practica 5](practica-5.md)
+
+Enlace al repositorio de la practica 6
+  - [Ir al documento practica 6](https://github.com/SpectralComet73/Practica_6)
